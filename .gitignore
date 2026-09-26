@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pt
+*.db
+Food Images/
+Food Ingredients and Recipe*
